@@ -298,18 +298,6 @@ This pipeline can be used to build:
 
 ------------------------------------------------------------------------
 
-# Future Improvements
-
-Possible future enhancements include:
-
-• Hybrid search (vector + keyword search)\
-• Re-ranking models for better retrieval\
-• Multi-step reasoning agents\
-• Feedback-driven retrieval optimization\
-• UI integration for chatbot interfaces
-
-------------------------------------------------------------------------
-
 # Conclusion
 
 This project demonstrates the **complete journey from a basic RAG
